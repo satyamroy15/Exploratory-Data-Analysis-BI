@@ -9,7 +9,7 @@ Task: To perform ‘Exploratory Data Analysis’ on the provided dataset ‘Samp
 * Dataset: SampleSuperstore.csv
 
 * Dataset: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
-* Complete Video Link: YouTube: https://youtu.be/ppm9lkIccNM
+* Complete Video Link: YouTube: https://youtu.be/mUZz8y-3OrM
 
 **By- Satyam Roy**
 
